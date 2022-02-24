@@ -1,0 +1,19 @@
+idAntojito,Antojitos,Precio,ingrediente_idIngrediente
+1,"G. Sencillo",14,1
+2,"G. Queso",17,1
+3,"G. Bistec",17,1
+4,"G. Salchicha",17,1
+5,"G. Molleja",17,1
+6,"G. Huevo",17,1
+7,"G. Pierna",17,1
+8,"G. Doble",20,1
+10,"Enchilada Sencilla (6)",10,2
+11,"Enchilada Preparada (4)",10,2
+12,"Enfrijolada (6)",10,2
+13,"Papas Locas",20,10
+14,"Quesadilla Sencilla",10,2
+15,"Quesadilla Preparada",15,2
+16,"Burrito Sencillo",25,13
+17,"Burrito Preparado",30,13
+19,"Huevos Preparados",15,8
+20,Morelianas,5,2
